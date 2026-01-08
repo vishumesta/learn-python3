@@ -6,7 +6,6 @@
 # 必须通过int()将字符串转换为整数
 # 才能用于数值比较:
 age = int(input('Input your age: '))
-hi hello
 
 if age >= 18:
     print('adult')
